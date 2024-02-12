@@ -6,7 +6,7 @@
 - Location: Ankara, Turkey
 - GitHub: [@mertcancatak](https://github.com/apheironn)
 - LinkedIn: [@apheironn](https://linkedin.com/in/mertcancatak)
-- Portfolio: [@portfolio](https://github.com.)
+- Portfolio: [@portfolio](https://apheironn.github.io/portfolio/)
 
 ### Summary
 I am a senior Computer Engineering student passionate about artificial intelligence, machine learning, and mathematics. Skilled in Python, TensorFlow, image processing, and time series forecasting, I bring a strong coding background and fluency in English to my work.
