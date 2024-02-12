@@ -1,27 +1,20 @@
 # Resume
 
-## Junior Data Scientist / Artificial Intelligence Engineer
-
 ### Contact
 - Email: mertcatak2@gmail.com
 - Phone: +905354439015
 - Location: Ankara, Turkey
-- GitHub: [@mertcancatak](https://github.com/mertcancatak)
-- LinkedIn: [@apheironn](https://linkedin.com/in/apheironn)
+- GitHub: [@mertcancatak](https://github.com/apheironn)
+- LinkedIn: [@apheironn](https://linkedin.com/in/mertcancatak)
+- Portfolio: [@portfolio](https://github.com.)
 
 ### Summary
 I am a senior Computer Engineering student passionate about artificial intelligence, machine learning, and mathematics. Skilled in Python, TensorFlow, image processing, and time series forecasting, I bring a strong coding background and fluency in English to my work.
 
-
-### Skills
-- Programming: Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow, PyTorch, Prophet)
-- Others: YOLO, Flask, AWS SageMaker, Docker, Roboflow
-
-
 ### Education
 **Ostim Technical University**  
 B.Sc. in Computer Engineering (English)  
-GPA: 3.33  
+GPA: 3.33/4.00  
 2020 – 2024, Ankara, Turkey
 
 ### Professional Experience
@@ -45,4 +38,7 @@ GPA: 3.33
 - **OTU PITCHING DAY 2021, 1st Place**  
   Project "Korug": A robotic drone with dual maneuverability, applicable in military, agriculture, disaster relief, and health.
 
+### Skills
+- Programming: Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow, PyTorch, Prophet)
+- Others: YOLO, Flask, AWS SageMaker, Docker, Roboflow
 
